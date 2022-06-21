@@ -1,6 +1,7 @@
 Trabajando hoy
 
 0000 aaaa
+20-que-es-angular
 05-spring-boot-mysql-jpa-simple
 04-crud-springboot-mysql-jpa-lombok
 03-spring-boot-lombok
@@ -16,7 +17,6 @@ git-github
 
 000-spring-boot-web-pelado
 
-20-que-es-angular
 20-angular-en-15-minutos
 
 
