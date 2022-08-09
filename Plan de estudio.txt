@@ -2,7 +2,8 @@ Trabajando hoy
 
 0000 aaaa
 
-30 Spring Boot Full Stack with Angular
+40-docker
+30-spring-boot-full-stack-with-angular
 30-backend-frontend-amigoscode
 10-git-github
 03-spring-boot-lombok
@@ -13,9 +14,8 @@ Trabajando hoy
 20-que-es-angular
 05-spring-boot-mysql-jpa-simple
 04-crud-springboot-mysql-jpa-lombok
-40-docker *
 20-angular-routing-buttons
-30 FRONTEND BACKEND PICAPIEDRA
+30-frontend-backend-picapiedra
 
 
 WorkSpace
