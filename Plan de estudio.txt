@@ -3,19 +3,19 @@ Trabajando hoy
 0000 aaaa
 
 40-docker
-30-spring-boot-full-stack-with-angular
+30-crud-spring-boot-angular-mysql-docker
+30-spring-boot-full-stack-with-angular NO LO MIRÉ
 30-backend-frontend-amigoscode
 10-git-github
 03-spring-boot-lombok
 30-spring-boot-thymeleaf-user-input
 50-testing
-30-crud-spring-boot-angular-mysql
 30-optional
 20-que-es-angular
-05-spring-boot-mysql-jpa-simple
 04-crud-springboot-mysql-jpa-lombok
 20-angular-routing-buttons
 30-frontend-backend-picapiedra
+05-spring-boot-mysql-jpa-simple NO ME PARECE TAN INTERESANTE
 
 
 WorkSpace
