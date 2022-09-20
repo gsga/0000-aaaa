@@ -3,6 +3,6 @@ git commit -m "2022-08-29"
 git push
 
 
-git remote add origin git@github.com:gsga/40-docker-privado.git
+git remote add origin git@github.com:gsga/logicactive.git
 git branch -M main
 git push -u origin main
