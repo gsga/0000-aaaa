@@ -5,10 +5,12 @@ Trabajando hoy
 0000 aaaa
 0000-apuntes
 
-05-spring-boot-mysql-transactions
-05-spring-boot-mysql-jpa-simple
-05-inyeccion-dependencias
+20-que-es-angular
 10-git-github
+05-spring-boot-mysql-jpa-simple
+30-optional
+05-spring-boot-mysql-transactions
+05-inyeccion-dependencias
 50-testing
 30-crud-spring-boot-angular-mysql-docker
 40-docker
@@ -18,7 +20,6 @@ Trabajando hoy
 03-spring-boot-lombok
 30-spring-boot-thymeleaf-user-input
 30-optional
-20-que-es-angular
 04-crud-springboot-mysql-jpa-lombok
 20-angular-routing-buttons
 30-frontend-backend-picapiedra
