@@ -1,37 +1,57 @@
 logicactive
 
-Trabajando hoy
+TRABAJANDO AHORA
 
-0000 aaaa
+Repositorios
+
+0000-aaaa
 0000-apuntes
 
-20-que-es-angular
-10-git-github
-05-spring-boot-mysql-jpa-simple
-30-optional
-05-spring-boot-mysql-transactions
-05-inyeccion-dependencias
-50-testing
-30-crud-spring-boot-angular-mysql-docker
-40-docker
+Archivos
 
+20-que-es-angular
+Apunte Angular.docx
+Preguntas Angular-v-1.docx
+SSH en Windows.docx
+
+REVISADOS
+
+000-java-consola
+000-spring-boot-web-pelado
+00-spring-boot-web-index
+02-spring-boot-jpa
+03-spring-boot-lombok
+04-crud-springboot-mysql-jpa-lombok
+
+
+
+PENDIENTES
+
+05-inyeccion-dependencias
+05-spring-boot-mysql-transactions
+05-spring-boot-mysql-jpa-simple
+
+10-git-github
+
+20-angular-en-15-minutos
+20-angular-routing-buttons
+
+30-optional
+30-crud-spring-boot-angular-mysql-docker
 30-spring-boot-full-stack-with-angular NO LO MIRÉ
 30-backend-frontend-amigoscode
-03-spring-boot-lombok
 30-spring-boot-thymeleaf-user-input
 30-optional
-04-crud-springboot-mysql-jpa-lombok
-20-angular-routing-buttons
 30-frontend-backend-picapiedra
+
+40-docker
+
+50-testing
 
 
 WorkSpace
 
-04-crud-springboot-mysql-jpa-lombok
 
-000-spring-boot-web-pelado
-
-20-angular-en-15-minutos
 
 
 

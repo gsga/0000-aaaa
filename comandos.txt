@@ -1,5 +1,5 @@
 git add -A
-git commit -m "2022-10-17"
+git commit -m"a"
 git push
 
 
@@ -9,6 +9,7 @@ git push -u origin main
 
 Revisen el archivo 10-git-github\Clonar un subdirectorio de un repositorio en Git.docx
 
+git push --set-upstream origin main
 
 git remote add origin git@github.com:gsga/05-spring-boot-mysql-transactions.git
 git branch -M main
